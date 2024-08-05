@@ -9,6 +9,7 @@ step 1: Download both the .py file into one folder
 
 step 2: Download the dataset and name it "DelayedFlights.csv"
 
+
 Running mapReduce.py
 
 Step 1: make sure both the dataset and mapReduce.py are in the same folder
@@ -18,6 +19,7 @@ Step 2: Open up your preferred IDE and open the said folder as a new project
 Step 3: In the IDE terminal paste in "python mapReduce.py DelayedFlights.csv > result.txt" then click enter
 
 Step 4: The result will be outputted to a file called "result.txt"
+
 
 Running nonMapReduce.py
 
