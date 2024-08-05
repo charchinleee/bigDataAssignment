@@ -4,7 +4,9 @@ URL for dataset: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 To run the code:
 
 DOWNLOADING
+
 step 1: Download both the .py file into one folder
+
 step 2: Download the dataset and name it "DelayedFlights.csv"
 
 Running mapReduce.py
